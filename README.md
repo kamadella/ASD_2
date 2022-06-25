@@ -29,15 +29,32 @@ W jedynym wierszu wyjścia mają się pojawić 2 liczby oznaczające odpowiednio
 największej wyspy i długość najdłuższej rzeki.
 
 **Przykład:**
+
 Wejście:
-10 10 Wyjście
-oooooooooo 5 10
-oxoxooxxoo
-ooxxxoxxoo
+
+10 10 
+
 oooooooooo
+
+oxoxooxxoo
+
+ooxxxoxxoo
+
+oooooooooo
+
 xuxxxxxuxx 
+
 xuuxxxxuxx
+
 xxuuuxxuxx
+
 xuuxxxuuux
+
 xuxxuuuxux
+
 xxxuuxuxuu
+
+Wyjście:
+
+ 5 10
+
